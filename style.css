@@ -8,7 +8,6 @@ header{
     padding: 10px;
 }
 main{
-<<<<<<< Updated upstream
    display: flex;
    justify-content: center;
    align-items: center;
@@ -24,10 +23,4 @@ h1{
 }
 h2{
     color: chocolate;
-=======
-    text-align: center;
-}
-div{
-    margin: 15px;
->>>>>>> Stashed changes
 }
