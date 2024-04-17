@@ -1,8 +1,8 @@
 function result() {
-    const x1 = document.querySelector("#x1");
-    const x2 = document.querySelector("#x2");
-    const x3 = document.querySelector("#x3");
-    const x4 = document.querySelector("#x4");
+    const x1 = document.querySelector("#x11");
+    const x2 = document.querySelector("#x22");
+    const x3 = document.querySelector("#x33");
+    const x4 = document.querySelector("#x44");
     let s = 0;
 
     if (x1.checked) {
