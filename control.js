@@ -18,5 +18,5 @@ function result() {
         s++;
     }
 
-    alert(`Your score is: ${s}`);
+    alert(`Your score is: ${s}/5`);
 }
